@@ -35,4 +35,21 @@
         <PackageReference Include="Cortex.Mediator" Version="2.1.0"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="WebNovelDownloader\Publishing\Application\Internal\CommandServices\" />
+      <Folder Include="WebNovelDownloader\Publishing\Application\Internal\EventHandlers\" />
+      <Folder Include="WebNovelDownloader\Publishing\Application\Internal\QueryServices\" />
+      <Folder Include="WebNovelDownloader\Publishing\Domain\Model\Commands\" />
+      <Folder Include="WebNovelDownloader\Publishing\Domain\Model\Entities\" />
+      <Folder Include="WebNovelDownloader\Publishing\Domain\Model\Events\" />
+      <Folder Include="WebNovelDownloader\Publishing\Domain\Model\Queries\" />
+      <Folder Include="WebNovelDownloader\Publishing\Domain\Repositories\" />
+      <Folder Include="WebNovelDownloader\Publishing\Domain\Services\" />
+      <Folder Include="WebNovelDownloader\Publishing\Infrastructure\Persistence\EFC\Configuration\Extensions\" />
+      <Folder Include="WebNovelDownloader\Publishing\Infrastructure\Persistence\EFC\Repositories\" />
+      <Folder Include="WebNovelDownloader\Publishing\Infrastructure\Scrapping\" />
+      <Folder Include="WebNovelDownloader\Publishing\Interfaces\REST\Resources\" />
+      <Folder Include="WebNovelDownloader\Publishing\Interfaces\REST\Transform\" />
+    </ItemGroup>
+
 </Project>

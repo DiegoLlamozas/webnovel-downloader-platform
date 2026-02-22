@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebNovelManager.WebNovelDownloaderPlatform.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+021e442caa5c1caf146c53c4633beb709a52db18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c2c71a2b98269a7ab6c5ec9ae91093dc8d70e3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebNovelManager.WebNovelDownloaderPlatform.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebNovelManager.WebNovelDownloaderPlatform.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
